@@ -23,7 +23,6 @@ A longo prazo pretendo me especializar nas seguintes linguagens:
  
  ## Redes Sociais
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/abner-suhett-8bbb45175/](https://www.linkedin.com/feed/))](https://www.linkedin.com/in/abner-suhett-8bbb45175/)
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abnersuhettdev)](https://github.com/abnersuhettdev)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermRissi&label=Profile%20views&color=373aff&style=flat" alt="GuilhermRissi" /> </p>
 
